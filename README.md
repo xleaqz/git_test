@@ -1,4 +1,3 @@
 # git_test
 
-Hello Odin!
-Odin wasd
+Hello World!
